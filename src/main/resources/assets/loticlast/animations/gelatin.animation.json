@@ -1,0 +1,18 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.gelatin.attach": {
+			"loop": true
+		},
+		"animation.gelatin.walk": {
+			"loop": true
+		},
+		"animation.gelatin.idle": {
+			"loop": true
+		},
+		"animation.gelatin.attack": {
+			"loop": true
+		}
+	},
+	"geckolib_format_version": 2
+}

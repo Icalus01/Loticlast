@@ -1,0 +1,11 @@
+{
+  "category.loticlast": "Loticlast",
+  "death.attack.loticlast.infect": "%1$s was infected",
+  "death.attack.loticlast.infect.player": "%1$s was infected by %2$s",
+  "entity.loticlast.gelatin": "Gelatin",
+  "entity.loticlast.water_candle": "Water Candle",
+  "item.loticlast.pristine_lotus_seed": "Pristine Lotus Seed",
+  "item.loticlast.turbid_lotus_seed": "Turbid Lotus Seed",
+  "itemGroup.loticlast": "Loticlast",
+  "key.loticlast.heal": "Inner View"
+}

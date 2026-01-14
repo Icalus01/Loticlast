@@ -1,0 +1,11 @@
+{
+  "type": "loticlast:archaeology_loot_modifier",
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:archaeology/desert_pyramid"
+    }
+  ],
+  "addition": "loticlast:pristine_lotus_seed",
+  "chance": 0.1
+}

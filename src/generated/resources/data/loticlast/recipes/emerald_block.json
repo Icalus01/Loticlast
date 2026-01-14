@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    "EE",
+    "EE"
+  ],
+  "result": {
+    "item": "loticlast:emerald_block"
+  },
+  "show_notification": true
+}
